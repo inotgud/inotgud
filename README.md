@@ -8,14 +8,6 @@
 * Friday Night Funkin' Reality Engine
    * The name of this FNF Engine, which I developed a long time ago, was not "Reality Engine".
    * Old versions of this FNF engine: v0.1 (BETA) ,v0.4,v0.7 (Week 7) ,v1.
-* Cyber Security and Web Attacking Projects
-   *   There are RAT (remote access trojan) application and DDoS scripts that I developed. (I will not share them)
-# Joint Projects
-* Regular Brawl 
-   * A Brawl Stars Mod. **More Information :** 
-      * https://rb.regularmodding.tk
-      * https://discord.gg/pQMHZMbznk
 
 # About Me
-* My Discord Account : inotgud#9131
-* I am Turkish
+* My Discord Account : gudbs
